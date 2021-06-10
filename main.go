@@ -1,3 +1,8 @@
+// AUTOR : Radosław Płocha 
+// Grupa 3
+// Prawo Benforda
+
+
 // WYMAGANA INSTALACJA BIBLIOTEKI "github.com/gocolly/colly"
 // ZA POMOCĄ go get "github.com/gocolly/colly"
 
